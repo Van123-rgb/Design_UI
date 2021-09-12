@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Design Layout</string>
+    <string name="title_user_list">Danh sách người dùng</string>
+    <string name="total_user">Tổng số User: </string>
+    <string name="warning">Cảnh báo</string>
+    <string name="declare_history">Lịch sử khai báo</string>
+    <string name="th_ng_tin_s">Thông tin sức khỏe</string>
+    <string name="welcome_return">Chào mừng trở lại</string>
+    <string name="coming_input">Mời nhập số điện thoại</string>
+    <string name="isnot_exist_account">Bạn chưa có tài khoản? Hãy <span style = "color: #19A9EA">đăng ký </span></string>
+</resources>
